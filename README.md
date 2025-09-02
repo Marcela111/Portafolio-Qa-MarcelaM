@@ -1,6 +1,7 @@
 Marcela Mora Calidad De Software - Portafolio Técnico 
 
-Proyectos Representativos Aquí están nuestros 5 proyectos seleccionados, cada uno con su documentación detallada en la carpeta proyectos/.
+Proyectos Representativos Aquí están mis 5  proyectos seleccionados, cada uno con su documentación detallada en la carpeta proyectos/.
+
 MediGuard API: Este proyecto consiste en una suite automatizada de control de calidad para la API REST de MediPlus. Mediante herramientas como REST Assured y Apache JMeter, se validan los aspectos funcionales, de seguridad y de rendimiento de la API. Las pruebas automatizadas revelaron vulnerabilidades de seguridad críticas, como la falta de autenticación, y confirmaron que varios métodos HTTP no estaban correctamente habilitados, lo que permitió identificar vulnerabilidades graves que requieren atención inmediata.
 
 Módulo 5: Este proyecto se enfoca en la automatización de pruebas basadas en la metodología BDD (Behavior-Driven Development). Utiliza Gherkin para crear escenarios de prueba legibles y Cucumber para ejecutar la lógica detrás de esos escenarios. El objetivo principal es mejorar la comunicación entre los equipos de negocio, QA y desarrollo, asegurando que todos entiendan el comportamiento esperado de la aplicación.
