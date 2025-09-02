@@ -11,3 +11,4 @@ proyecto-final-qa: Este proyecto es una suite de pruebas funcionales automatizad
 
 proyecto_bdd: Este proyecto se enfoca en la automatización de pruebas basadas en la metodología BDD (Behavior-Driven Development). Utiliza Gherkin para crear escenarios de prueba legibles y Cucumber para ejecutar la lógica detrás de esos escenarios. El objetivo principal es mejorar la comunicación entre los equipos de negocio, QA y desarrollo, asegurando que todos entiendan el comportamiento esperado de la aplicación.
 
+"# Portafolio-Qa-MarcelaM" 
