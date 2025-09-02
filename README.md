@@ -1,4 +1,4 @@
-Marcela Mora Calidad De Software - Portafolio Técnico Mi Propuesta de Valor Somos un equipo de QA especializados en automatización de pruebas y aseguramiento de la calidad. Mi objetivo es garantizar la fiabilidad y eficiencia de los productos digitales para empresas innovadoras.
+Marcela Mora Calidad De Software - Portafolio Técnico 
 
 Proyectos Representativos Aquí están nuestros 5 proyectos seleccionados, cada uno con su documentación detallada en la carpeta proyectos/.
 MediGuard API: Este proyecto consiste en una suite automatizada de control de calidad para la API REST de MediPlus. Mediante herramientas como REST Assured y Apache JMeter, se validan los aspectos funcionales, de seguridad y de rendimiento de la API. Las pruebas automatizadas revelaron vulnerabilidades de seguridad críticas, como la falta de autenticación, y confirmaron que varios métodos HTTP no estaban correctamente habilitados, lo que permitió identificar vulnerabilidades graves que requieren atención inmediata.
